@@ -1,0 +1,4 @@
+ATATT3xFfGF0C52hE8SiXTIsYlvpxXE8AjUSoopD1qH77e-7PxPY3TvVr2GP1n9HBYDqVLAE4zoM0W5_sxrwFJ2NZGWyrBHRKSApXTYClgTIZav74O1F4a7bD4lnBsobuNMrPWjGLV0SG-AaJYWrrZ9IRe_xIHz-W0ezq4IwTcEGwfWDICdv8Uw=9201CA06
+pip install --ignore-installed PyYAML
+https://id.atlassian.com/manage-profile/security/api-tokens
+https://my-account-test.atlassian.net/jira/projects?selectedProjectType=software

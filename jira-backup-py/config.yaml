@@ -1,0 +1,14 @@
+--- 
+HOST_URL: "my-account-test.atlassian.net"
+USER_EMAIL: "javierlopez.jlp1@gmail.com"
+API_TOKEN: "ATATT3xFfGF0C52hE8SiXTIsYlvpxXE8AjUSoopD1qH77e-7PxPY3TvVr2GP1n9HBYDqVLAE4zoM0W5_sxrwFJ2NZGWyrBHRKSApXTYClgTIZav74O1F4a7bD4lnBsobuNMrPWjGLV0SG-AaJYWrrZ9IRe_xIHz-W0ezq4IwTcEGwfWDICdv8Uw=9201CA06"
+INCLUDE_ATTACHMENTS: "true"
+DOWNLOAD_LOCALLY: "true"
+UPLOAD_TO_S3:
+    AWS_ENDPOINT_URL: "s3://arn:aws:s3:eu-west-1:605529143588:accesspoint/accesspoint"
+    AWS_REGION: "eu-west-1"
+    S3_BUCKET: "mybucket5077207"
+    S3_DIR: "Atlassian/"
+    AWS_ACCESS_KEY: "AKIAYZ7CZPESPXXNCVWK"
+    AWS_SECRET_KEY: "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"
+    AWS_IS_SECURE: True
