@@ -2,3 +2,7 @@ ATATT3xFfGF0C52hE8SiXTIsYlvpxXE8AjUSoopD1qH77e-7PxPY3TvVr2GP1n9HBYDqVLAE4zoM0W5_
 pip install --ignore-installed PyYAML
 https://id.atlassian.com/manage-profile/security/api-tokens
 https://my-account-test.atlassian.net/jira/projects?selectedProjectType=software
+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
+------
+token2
+ATATT3xFfGF04Y2ub-I_vGRduTSgh2uTjCxZzTVlirEyUW_nu9sYCl01DY-eqb9SP7NxYPDbkUqnlnq15tipT0DjEm7_xeQ5we9BDGND0XQs-6eQi3McFkh1unF1ewqIw_BMr7PHPtw1BL8eGojsOHAtlwucDHmpy87AYexLnDfVYnlD5YRQ6M4=2F6CF462
