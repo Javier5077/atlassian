@@ -1,0 +1,15 @@
+#!/bin/bash
+#LOG_FILE=projects-github.csv
+#exec 3<&1
+#coproc mytee { tee $LOG_FILE >&3;  }
+#exec >&${mytee[1]} 2>&1
+TOKEN='XXXXXXXXXXXXXXXXXXXX
+#ORG='test5077'
+#download gh https://github.com/cli/cli/releases/tag/v2.32.0
+
+#./gh.exe auth login --with-token < token.txt
+#./gh org list --limit 1000  | tail -n+1 >> org.txt 
+for org in $(cat org.txt | tr -d '[]"' | tr , '\n'); do
+echo -e "\n La organización : $org tiene los siguientes repositorios : "  
+./gh.exe repo list $org 
+done
